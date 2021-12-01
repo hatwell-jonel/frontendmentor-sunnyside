@@ -42,7 +42,7 @@ Users should be able to:
 
 ## Author
 
-- LinkedIn - [Hatwell Jonel](www.linkedin.com/in/jonel-hatwel)
+- LinkedIn - [Hatwell Jonel](https://www.linkedin.com/in/jonel-hatwell/)
 - Frontend Mentor - [@hatwell](https://www.frontendmentor.io/profile/hatwell-jonel)
 
 
