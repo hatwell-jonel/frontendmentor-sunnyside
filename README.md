@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/mobile-first-vanilla-css-javascript-html-ju-h-MTsi)
+- Live Site URL: [Add live site URL here](https://hatwell-jonel.github.io/frontendmentor-sunnyside/)
 
 ### Built with
 
